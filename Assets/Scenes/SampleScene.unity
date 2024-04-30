@@ -1004,6 +1004,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fa06dec639bffb94286b1784de40e55c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  myMessage: Boa tarde
 --- !u!4 &1534327091
 Transform:
   m_ObjectHideFlags: 0
